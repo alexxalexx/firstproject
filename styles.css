@@ -2,3 +2,11 @@ body
 {
 	background: #bad3cc;
 }
+h1 
+{
+	background: #ffffff;
+	font-size: 50px;
+	line-height: 70px;
+	font-style: italic;
+	color: #000000;
+}
